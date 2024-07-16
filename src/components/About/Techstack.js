@@ -12,16 +12,9 @@ import {
 
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
   SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-  SiLinux,
   SiLaravel
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
-import { Link } from "react-router-dom";
 
 function Techstack() {
   return (
